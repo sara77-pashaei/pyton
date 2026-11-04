@@ -1,0 +1,27 @@
+
+Amino Acid Name	Three-Letter Code One-Letter    CodePossible codons
+Alanine		Ala			A		GCA, GCC, GCG, GCT
+Arginine	Arg			R	AGA, AGG, CGA, CGC, CGG, CGT
+Asparagine	Asn			N		AAC, AAT
+Aspartic Acid	Asp			D		GAC, GAT
+Cysteine	Cys			C		TGC, TGT
+Glutamine	Gln			Q		CAA, CAG
+Glutamic Acid	Glu			E		GAA, GAG
+Glycine		Gly			G		GGA, GGC, GGG, GGT
+Histidine	His			H		CAC, CAT
+Isoleucine	Ile			I		ATA, ATC, ATT
+Leucine		Leu			L	CTA, CTC, CTG, CTT, TTA, TTG
+Lysine		Lys			K		AAA, AAG
+Methionine	Met			M		ATG
+Phenylalanine	Phe			F		TTC, TTT
+Proline		Pro			P		CCA, CCC, CCG, CCT
+Serine		Ser			S	AGC, AGT, TCA, TCC, TCG, TCT
+Threonine	Thr			T	ACA, ACC, ACG, ACT
+Tryptophan	Trp			W		TGG
+Tyrosine	Tyr			Y		TAC, TAT
+Valine		Val			V		GTT,GTC,GTA,GTG
+Selenocysteine	Sec			U	
+Pyrrolysine	Pyl			O
+				
+			-
+		

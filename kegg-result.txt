@@ -1,0 +1,40 @@
+Rhapsido	Novartis Pharmaceuticals	2025
+Vanrafia	Novartis Pharmaceuticals	2025
+Fabhalta	Novartis Pharmaceuticals	2023
+Pluvicto	Novartis Pharmaceuticals	2022
+Leqvio	Novartis AG	2021
+Scemblix	Novartis Pharmaceuticals	2021
+Tabrecta	Novartis Pharmaceuticals	2020
+Isturisa	Novartis Pharmaceuticals	2020
+Adakveo	Novartis Pharmaceuticals	2019
+Beovu	Novartis Pharmaceuticals	2019
+Piqray	Novartis Pharmaceuticals	2019
+Mayzent	Novartis Pharmaceuticals	2019
+Egaten	Novartis Pharmaceuticals	2019
+Rydapt	Novartis Pharmaceuticals	2017
+Kisqali	Novartis Pharmaceuticals	2017
+Odomzo	Novartis Pharmaceuticals	2015
+Entresto	Novartis Pharmaceuticals	2015
+Farydak	Novartis Pharmaceuticals	2015
+Cosentyx	Novartis Pharmaceuticals	2015
+Zykadia	Novartis Pharmaceuticals	2014
+Signifor	Novartis	2012
+Arcapta Neohaler	Novartis	2011
+Fingolimod HCl oral capsules	Novartis Pharmaceuticals	2010
+Ilaris	Novartis Pharmaceuticals	2009
+Coartem	Novartis Pharmaceuticals	2009
+Afinitor	Novartis Pharmaceuticals	2009
+Tasigna	Novartis	2007
+Tekturna	Novartis	2007
+Exjade	Novartis	2005
+Enablex	Novartis	2004
+Zelnorm	Novartis Pharms	2002
+Elidel	Novartis Pharms	2001
+Zometa	Novartis Pharms	2001
+Gleevec	Novartis Pharms	2001
+Foradil Aerolizer	Novartis Pharms	2001
+Starlix	Novartis Pharms	2000
+Exelon	Novartis Pharms	2000
+Trileptal	Novartis Pharms	2000
+Itvisma	Novartis Gene Therapies, Inc	2025
+Kymriah	Novartis Pharmaceuticals	2017
